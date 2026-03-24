@@ -1,62 +1,61 @@
-# awesome-it-cheat-sheets-dargslan
+# 🚀 Awesome IT Cheat Sheets by Dargslan
 
-Awesome IT Cheat Sheets by Dargslan
-The most comprehensive, 4-tier structured collection of IT cheat sheets for developers, DevOps, and SysAdmins.
+> **The most comprehensive, 4-tier structured collection of 121+ professional IT cheat sheets.**
 
-This repository is a curated gateway to 121+ professional IT cheat sheets hosted at dargslan.com/cheat-sheets. Unlike traditional flat lists, our collection follows a unique 4-Tier Mastery System to help you grow from Junior to Architect.
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-it-cheat-sheets-dargslan?style=social)](https://github.com/yourusername/awesome-it-cheat-sheets-dargslan)
+[![Website](https://img.shields.io/badge/Website-dargslan.com-blue)](https://dargslan.com/cheat-sheets)
 
-🚀 Why Dargslan Cheat Sheets?
+This repository is the official gateway to the **Dargslan Mastery System**. We don't just give you a list of commands; we provide a structured roadmap to take you from a Junior level to a Senior Architect.
 
-Most cheat sheets are just a wall of text. We provide a structured roadmap:
+---
 
-Tier 1: Essentials – Core syntax and "must-know" commands for beginners.
+## 🏗️ The 4-Tier Mastery System
 
-Tier 2: Workflow – Daily operations, error handling, and common tasks.
+Unlike "flat" cheat sheets, our library is organized into four progressive levels:
 
-Tier 3: Optimization – Performance tuning, security hardening, and best practices.
+* **Tier 1: Essentials** – Core syntax and "must-know" commands for beginners.
+* **Tier 2: Workflow** – Daily operations, error handling, and common tasks.
+* **Tier 3: Optimization** – Performance tuning, security hardening, and best practices.
+* **Tier 4: Architecture** – Deep internals, scaling, and expert-level troubleshooting.
 
-Tier 4: Architecture – Deep internals, scaling, and expert-level troubleshooting.
+---
 
-📚 Categories
+## 📚 Categories & Technologies
 
-☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
+* **Containers:** Docker, Kubernetes (K8s), Helm.
+* **IaC:** Terraform, Ansible, CloudFormation.
+* **Platforms:** AWS, Azure, Google Cloud (GCP).
 
-Docker - From run to multi-stage builds and security.
+### 🐧 Linux & Systems
+* **Shell:** Bash, Zsh, Powerline, Sed/Awk.
+* **Networking:** TCP/IP, DNS, SSL/TLS, SSH.
+* **Security:** Blue Team tactics, Hardening, Audit logs.
 
-Kubernetes - Pods, Services, Ingress, and Helm charts.
+### 💻 Development & Databases
+* **Languages:** Python, JavaScript/TS, Go, Rust, C++.
+* **Frameworks:** React, Node.js, Django, FastAPI.
+* **Data:** SQL (PostgreSQL/MySQL) & NoSQL (MongoDB/Redis).
 
-Terraform / Ansible - Infrastructure as Code best practices.
+---
 
-🐧 Linux & Systems
+## 🛠 How to Use
+1.  **Browse** the categories to find the tech stack you are working with.
+2.  **Click** the links to access high-quality, printable PDF versions.
+3.  **Level Up:** Use the Tiers to measure your professional growth.
 
-Bash & Zsh - Scripting, pipes, and automation.
+---
 
-Networking (TCP/IP) - Diagnostics, ports, and protocols.
+## 🔗 Official Links
 
-Security (Blue Team) - Hardening, SSL/TLS, and Audit logs.
+* **Full Library:** [dargslan.com/cheat-sheets](https://dargslan.com/cheat-sheets)
+* **Twitter / X:** [@DargslanX](https://twitter.com/DargslanX)
+* **LinkedIn:** [Dargslan](https://linkedin.com/company/dargslan)
 
-💻 Programming & Frameworks
+---
 
-Python / JS / Go - Syntax, OOP, and async patterns.
+## ⭐ Support the Project
+If these cheat sheets helped you fix a bug at 3 AM or pass a technical interview, please **give this repository a star!** It helps more developers find this resource.
 
-SQL & NoSQL - Query optimization and schema design.
-
-📖 How to use this Repository
-
-Browse the list above to find the technology you need.
-
-Click the links to go to the high-quality, printable PDF versions on Dargslan.com.
-
-Star this repo to stay updated! We add new sheets every week.
-
-🛠 Contributing
-
-Have a suggestion or found a typo? Open an issue or submit a PR! Let's build the ultimate IT reference together.
-
-🔗 Links
-
-Full Library: dargslan.com/cheat-sheets
-
-Twitter/X: @DargslanX
-
-LinkedIn: Dargslan
+---
+*© 2026 Dargslan. Empowering the next generation of IT Architects.*
