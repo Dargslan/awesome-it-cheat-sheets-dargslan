@@ -1,6 +1,6 @@
 # 🚀 Awesome IT Cheat Sheets by Dargslan
 
-> **The most comprehensive, 4-tier structured collection of 121+ professional IT cheat sheets.**
+> **The most comprehensive, 4-tier structured collection of 200+ professional IT cheat sheets.**
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-it-cheat-sheets-dargslan?style=social)](https://github.com/yourusername/awesome-it-cheat-sheets-dargslan)
 [![Website](https://img.shields.io/badge/Website-dargslan.com-blue)](https://dargslan.com/cheat-sheets)
